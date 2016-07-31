@@ -1,0 +1,2 @@
+# MVCControllerTest
+这是一个使用MVC模式基于Servlet实现的Java Web测试项目，主要是模拟一个商品的添加操作的流程，包含一些数据校验和请求转发的功能模块。
